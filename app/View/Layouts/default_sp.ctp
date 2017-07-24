@@ -2,7 +2,7 @@
 <html>
 <head>
 	<?php echo $this->Html->charset(); ?>
-	<title>掲示板システム for スマホ</title>
+	<title>ToDo App</title>
 	<?php
 	 		echo $this->Html->meta('icon');
 
@@ -17,7 +17,7 @@
 <body>
 		<div id="container">
 				<div id="header">
-						<h1>スマホ用掲示板システム</h1>
+						<h1>ToDo App</h1>
 				</div>
 				<div id="content">
 
@@ -26,7 +26,7 @@
 						<?php echo $this->fetch('content'); ?>
 				</div>
 				<div id="footer">
-				Version 0.1(SP)
+				Version 0.2(SP)
 				</div>
 		</div>
 </body>

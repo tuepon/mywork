@@ -39,7 +39,7 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 <body>
 	<div id="container">
 		<div id="header">
-			<h1>掲示板システム</h1>
+			<h1>ToDo App</h1>
 		</div>
 		<div id="content">
 
@@ -48,7 +48,7 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 			<?php echo $this->fetch('content'); ?>
 		</div>
 		<div id="footer">
-		Version 0.1
+		Version 0.2
 		</div>
 	</div>
 </body>
