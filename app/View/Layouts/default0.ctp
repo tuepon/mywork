@@ -14,7 +14,7 @@
  * @license       http://www.opensource.org/licenses/mit-license.php MIT License
  */
 
-$cakeDescription = __d('cake_dev', 'さきかなお問合せフォーム');
+$cakeDescription = __d('cake_dev', 'お問合せフォーム');
 $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 ?>
 <!DOCTYPE html>
@@ -39,7 +39,7 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 <body>
 	<div id="container">
 		<div id="header">
-			<h1>さきかな　お問合せフォームPC</h1>
+			<h1>ペットシッター用お問合せフォームサンプル</h1>
 		</div>
 		<div id="content">
 

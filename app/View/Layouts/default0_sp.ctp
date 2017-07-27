@@ -2,7 +2,7 @@
 <html>
 <head>
 	<?php echo $this->Html->charset(); ?>
-	<title>さきかなお問合せフォームSP</title>
+	<title>お問合せフォーム</title>
 	<?php
 	 		echo $this->Html->meta('icon');
 
@@ -17,7 +17,7 @@
 <body>
 		<div id="container">
 				<div id="header">
-						<h1>さきかなお問合せフォームSP</h1>
+						<h1>ペットシッター用お問合せフォームサンプル</h1>
 				</div>
 				<div id="content">
 
