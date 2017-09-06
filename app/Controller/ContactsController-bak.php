@@ -32,7 +32,7 @@ class ContactsController extends AppController {
 				'date2' => $this->request->data['Contact']['date2'],
 				'other' => $this->request->data['Contact']['other'],
 			),
-			'to' => 'petsittersakikana@yahoo.co.jp',
+			'to' => 'test@example.com',
 			'subject' => '【さきかな】お問合せ',
 		));
 
