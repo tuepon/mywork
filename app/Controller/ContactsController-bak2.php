@@ -42,7 +42,7 @@ class ContactsController extends AppController {
 				'date4' => $this->request->data['Contact']['date4'],
 				'other' => $this->request->data['Contact']['other'],
 			),
-			'to' => 'info@sakikana.com', //メールがこのアドレスに送信される
+			'to' => 'test@example.com', //メールがこのアドレスに送信される
 			'subject' => '【さきかな】お問合せ',
 		));
 
